@@ -1,0 +1,21 @@
+{
+  "patchName": "Assault Spy Korean Patch v8.1",
+  "files": [
+    {
+      "name": "ASSAULT_SPY-WindowsNoEditor_KoreanDialogue_P.pak",
+      "sha256": "A901A9021DFE85704D0B43BD92C1C7A07BD7CF0B3AA87A92A481099707CA3891"
+    },
+    {
+      "name": "ASSAULT_SPY-WindowsNoEditor_KoreanDialogueUIFix_P.pak",
+      "sha256": "291FA2C8867F50464CC27ECA59A99DA4A2608EC9B8B94955CC0EC17EA9449616"
+    },
+    {
+      "name": "ASSAULT_SPY-WindowsNoEditor_KoreanFont_P.pak",
+      "sha256": "8D5638D44FDCEB203C2B503AE0A4123768AFF6E91A30F59EA4020714930FF181"
+    },
+    {
+      "name": "ASSAULT_SPY-WindowsNoEditor_KoreanSettings_P.pak",
+      "sha256": "9190B057E8C7E6FBFCB8430F1720008C3F820F3CDCBFF26FA6D0AA4B62820E44"
+    }
+  ]
+}

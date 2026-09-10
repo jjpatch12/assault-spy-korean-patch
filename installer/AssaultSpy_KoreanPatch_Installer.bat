@@ -41,7 +41,7 @@ if not errorlevel 1 (
 )
 
 echo.
-echo Assault Spy 한국어 패치 v8.1을 설치합니다.
+echo Assault Spy 한국어 패치 v1.0을 설치합니다.
 echo 대상: %GAME_DIR%
 echo 기존 한국어 패치는 KoreanPatch_Backup 폴더에 자동 백업합니다.
 echo.

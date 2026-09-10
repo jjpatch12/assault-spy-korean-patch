@@ -1,10 +1,10 @@
 # Assault Spy 한국어 패치
 
-Assault Spy 일본어 슬롯을 교체하는 비공개 한국어 패치입니다. 현재 배포 버전은 **v8.1**입니다.
+Assault Spy 일본어 슬롯을 교체하는 비공개 한국어 패치입니다. 현재 배포 버전은 **v1.0**입니다.
 
 ## 다운로드 및 설치
 
-저장소의 **Releases → v8.1**에서 `AssaultSpy_KoreanPatch_v8.1.zip`을 내려받습니다.
+저장소의 **Releases → v1.0**에서 `AssaultSpy_KoreanPatch_v1.0.zip`을 내려받습니다.
 
 1. ZIP 전체를 압축 해제합니다.
 2. 게임을 완전히 종료합니다.
@@ -24,8 +24,6 @@ Assault Spy 일본어 슬롯을 교체하는 비공개 한국어 패치입니다
 
 이 저장소는 비공개 배포 및 개인 테스트용입니다. 패치 ZIP은 Git 이력에 직접 넣지 않고 비공개 릴리스 자산으로 제공합니다.
 
-## v8.1 ZIP 무결성
+## v1.0 ZIP 무결성
 
-`AssaultSpy_KoreanPatch_v8.1.zip`
-
-SHA-256: `A469F5167E81074C15712C72DEB2D84D90A612EF1FAC954EF2CDDA2F6833550B`
+릴리스에 첨부된 `AssaultSpy_KoreanPatch_v1.0.zip.sha256` 또는 저장소의 `checksums` 폴더에서 SHA-256을 확인할 수 있습니다.
